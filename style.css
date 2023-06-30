@@ -29,8 +29,30 @@ font-family: 'Poppins', sans-serif;
     border-radius: 10px;
     color: white;
     font-size: 20px;
+    margin-top: 3%;
+    
 }
 .donate-section{
     text-align: center;
     font-size: 20px;
+}
+.subcrib-section{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 2%;
+   
+   
+}
+.box-model{
+    box-shadow: 10px 30px 50px grey;
+    margin: 3%;
+    padding: 3%;
+}
+.diprance-color{
+    background-color: rgb(233, 153, 153);
+    border: solid red;
+}
+.amount{
+    text-align: center;
 }
