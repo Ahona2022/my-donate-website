@@ -1,0 +1,32 @@
+body{
+font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Hurricane', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+.header-section{
+    text-align: center;
+    background-image: url(images/donation4.jpg);
+    background-size: cover;
+    height: 600px;
+    color: white;
+    
+    
+}
+.header-section h1{
+    font-size: 70px;
+    padding-top: 15%;
+    
+}
+.header-section p{
+    padding-bottom:5% ;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(242, 49, 49);
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
