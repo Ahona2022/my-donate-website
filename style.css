@@ -56,3 +56,28 @@ font-family: 'Poppins', sans-serif;
 .amount{
     text-align: center;
 }
+.donate-plan{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 20px;
+}
+.family-section{
+    display: flex;
+    
+    
+}
+.background-color{
+    background-color:rgb(219, 219, 239) ;
+    padding: 5%;
+    margin: 5%;
+}
+.shelter-section{
+    background-color: rgb(244, 182, 182);
+    padding: 5%;
+    margin: 5%;
+}
+.education-section{
+    background-color: rgb(233, 243, 96);
+    padding: 5%;
+    margin: 5%;
+}
