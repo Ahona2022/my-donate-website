@@ -99,6 +99,8 @@ font-family: 'Poppins', sans-serif;
     background-color: rgb(240, 208, 208);
     padding: 30px;
     margin: 30px;
+    width: auto;
+    
     
     
 }
@@ -120,4 +122,11 @@ font-family: 'Poppins', sans-serif;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     
+}
+.footer-section{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin: 30px;
 }
